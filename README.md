@@ -1,16 +1,15 @@
-<img align='left' src='./assets/logo.png' width='25%' heigh="35%">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!</h1>
 
-### L3KTRO
-
-Hi, I am L3KTRO and I am fullstack developer from Spain. I have been coding for almost 5 years and now I am starting my
+Welcome to my page! I am a Full Stack Developer from Spain, I've been coding for almost 5 years and now I am starting my
 own projects.
 
 ![](https://komarev.com/ghpvc/?username=L3KTRO&color=2062af&label=Profile+views)
 ![status](https://api.statusbadges.me/badge/status/403943736439996416?simple=true)
 ![intellij](https://api.statusbadges.me/badge/intellij/403943736439996416)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/l3ktro)
-<br></br>
 
+
+<h2>Things I code with</h2>
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -32,6 +31,7 @@ own projects.
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Redis&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-eceff1?style=flat-square&logo=Linux&logoColor=black" />
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-c9750c?style=flat-square&logo=proxmox&logoColor=black" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-242938?style=flat-square&logo=zsh&logoColor=white" />
   <img alt="Powershell"
     src="https://img.shields.io/badge/-Powershell-4d86ec?style=flat-square&logo=Powershell&logoColor=white" />
