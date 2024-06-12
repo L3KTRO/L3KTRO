@@ -9,7 +9,7 @@ own projects.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/l3ktro)
 
 
-<h2>Things I code with</h2>
+## Things I code with
 <p>
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-B125EA?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -45,3 +45,5 @@ own projects.
   <img alt="Cloudflare"
     src="https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
+
+<a href="#">![Top Langs](https://github-readme-stats-sooty-iota.vercel.app/api/top-langs/?username=L3KTRO&layout=donut&theme=transparent&count_private=true&hide_border=true&hide=javascript)</a>
