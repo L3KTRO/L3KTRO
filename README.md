@@ -3,6 +3,8 @@
 Welcome to my page! I am a Full Stack Developer from Spain, I've been coding for almost 5 years and now I am starting my
 own projects.
 
+* Currently studying IA (ML, text-to-image...) and Big Data
+
 ![](https://komarev.com/ghpvc/?username=L3KTRO&color=2062af&label=Profile+views)
 ![status](https://api.statusbadges.me/badge/status/403943736439996416?simple=true)
 ![intellij](https://api.statusbadges.me/badge/intellij/403943736439996416)
