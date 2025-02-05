@@ -3,7 +3,7 @@
 Welcome to my page! I am a Full Stack Developer from Spain, I've been coding for almost 5 years and now I am starting my
 own projects.
 
-* Currently studying seft-taught IA (ML, text-to-image...) and Big Data
+* Currently studying some web and backend frameworks
 * Finishing my professional formation in IES Rafael Alberti
 
 ![](https://komarev.com/ghpvc/?username=L3KTRO&color=2062af&label=Profile+views)
