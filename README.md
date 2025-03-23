@@ -4,7 +4,7 @@ Welcome to my page! I am a Full Stack Developer from Spain, I've been coding for
 own projects.
 
 * Currently studying some web and backend frameworks
-* Finishing my professional formation in IES Rafael Alberti
+* Finishing my professional formation in IES Rafael Alberti (Right now, as intern) 
 
 ![](https://komarev.com/ghpvc/?username=L3KTRO&color=2062af&label=Profile+views)
 ![status](https://api.statusbadges.me/badge/status/403943736439996416?simple=true)
