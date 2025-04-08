@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!</h1>
 
 Welcome to my page! I am a Full Stack Developer from Spain, I've been coding for almost 5 years and now I am starting my
-own projects.
+own projects and more than 4 years of professional experience as freelancer.
+Right now, I'm looking for new challenges, projects and teams.
 
 * Currently studying some web and backend frameworks
 * Finishing my professional formation in IES Rafael Alberti (Right now, as intern) 
