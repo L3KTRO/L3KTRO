@@ -4,8 +4,7 @@ Welcome to my page! I am a Full Stack Developer from Spain, I've been coding for
 own projects and more than 4 years of professional experience as freelancer.
 Right now, I'm looking for new challenges, projects and teams.
 
-* Currently studying some web and backend frameworks
-* Finishing my professional formation in IES Rafael Alberti (Right now, as intern) 
+* Currently working at Nytelweb
 
 ![](https://komarev.com/ghpvc/?username=L3KTRO&color=2062af&label=Profile+views)
 ![status](https://api.statusbadges.me/badge/status/403943736439996416?simple=true)
