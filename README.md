@@ -48,5 +48,3 @@ Right now, I'm looking for new challenges, projects and teams.
   <img alt="Cloudflare"
     src="https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
-
-<a href="#">![Top Langs](https://github-readme-stats-sooty-iota.vercel.app/api/top-langs/?username=L3KTRO&layout=donut&theme=transparent&count_private=true&hide_border=true&hide=javascript)</a>
